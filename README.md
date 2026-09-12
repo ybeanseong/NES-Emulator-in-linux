@@ -1,5 +1,5 @@
 # NES-Emulator-in-linux
-
+<img width="1774" height="887" alt="Image" src="https://github.com/user-attachments/assets/b7f05b52-3a16-4fa2-a1da-6ca983e3be08" />
 C로 NES (Nintendo Entertainment System)을 직접 구현하면서
 CPU, Memory Bus, PPU (Pixel Processing Unit) 및 APU (Audio Processing Unit)을 개발하면서
 게임기를 에뮬레이팅하여 Linux 환경에서 동작하도록 학습하는 프로젝트입니다.
